@@ -1,0 +1,13 @@
+clip_id,video_id,label,start_frame,end_frame,start_time,end_time
+normal_003.npy,normal_video_3,normal,0,32,0.0,3.2
+normal_006.npy,normal_video_6,normal,0,32,0.0,3.2
+suspicious_003.npy,suspicious_video_3,suspicious,0,32,0.0,3.2
+suspicious_006.npy,suspicious_video_6,suspicious,0,32,0.0,3.2
+theft_003.npy,theft_video_3,theft,0,32,0.0,3.2
+theft_006.npy,theft_video_6,theft,0,32,0.0,3.2
+fighting_003.npy,fighting_video_3,fighting,0,32,0.0,3.2
+fighting_006.npy,fighting_video_6,fighting,0,32,0.0,3.2
+weapon_gun_003.npy,weapon_gun_video_3,weapon_gun,0,32,0.0,3.2
+weapon_gun_006.npy,weapon_gun_video_6,weapon_gun,0,32,0.0,3.2
+weapon_other_003.npy,weapon_other_video_3,weapon_other,0,32,0.0,3.2
+weapon_other_006.npy,weapon_other_video_6,weapon_other,0,32,0.0,3.2
