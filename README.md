@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HAR System for Theft & Suspicious Activity Detection
 
 A deep learning system that detects theft and suspicious activities in surveillance videos using video transformers and 3D CNNs.
@@ -397,3 +398,7 @@ For questions or issues:
 ---
 
 **Built with ❤️ for safer public spaces**
+=======
+# HAR-Suspicious-Activities-Detection
+HAR for Suspicious Activities in Public Places using Deep Learning
+>>>>>>> 1e654fd7be7838c97fecc0b838c84ec264d77c1f
